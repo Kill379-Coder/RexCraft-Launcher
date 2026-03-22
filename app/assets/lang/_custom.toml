@@ -1,0 +1,20 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "RexCraft Launcher - (Beta)"
+
+[ejs.landing]
+mediaGitHubURL = "https://discord.battly.site"
+mediaXURL = "#"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "#"
+mediaDiscordURL = "https://discord.rexcraft.it"
+
+[ejs.settings]
+sourceGithubLink = "https://www.battly.site"
+supportLink = "https://discord.battly.site"
+
+[ejs.welcome]
+welcomeHeader = "REXCRAFT LAUNCHER"
+welcomeDescription = ""
+welcomeDescCTA = "Copyright © 2026 Battly Studios"
