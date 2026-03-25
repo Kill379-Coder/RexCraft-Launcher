@@ -1,10 +1,10 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "RexCraft Launcher - (Beta)"
+title = "RexCraft Launcher - v1.0.10 (Beta)"
 
 [ejs.landing]
-mediaGitHubURL = "https://discord.battly.site"
+mediaGitHubURL = "https://www.battly.site"
 mediaXURL = "#"
 mediaInstagramURL = "#"
 mediaYouTubeURL = "#"
